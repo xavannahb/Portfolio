@@ -24,6 +24,7 @@ li {
 a { 
     color: white;
     text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
@@ -289,7 +290,7 @@ h3 {
 }
 
 .faq {
-    padding-top: 2em;
+    padding-top: 1em;
     text-align: center;
     padding-bottom: 5em;
 }
